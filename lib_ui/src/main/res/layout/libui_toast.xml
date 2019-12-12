@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/libui_id_title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:ellipsize="end"
+    android:gravity="center"
+    android:lineSpacingExtra="4dp"
+    android:maxLines="2"
+    android:paddingLeft="24dp"
+    android:paddingTop="12dp"
+    android:paddingRight="24dp"
+    android:paddingBottom="12dp"
+    android:textColor="#ffffff"
+    android:textSize="17dp"
+    android:textStyle="normal"
+    android:background="@drawable/libui_toast_bg"/>
+
+
